@@ -225,6 +225,7 @@ public abstract class Speedometer extends Gauge {
         return (speed - getMinSpeed()) * (endDegree - startDegree) /(getMaxSpeed() - getMinSpeed()) + startDegree;
     }
 
+
     /**
      * @param degree to know the speed at it.
      * @return correct speed at that degree.
