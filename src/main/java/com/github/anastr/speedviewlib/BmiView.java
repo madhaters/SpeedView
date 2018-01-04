@@ -41,9 +41,9 @@ public class BmiView extends Speedometer {
         ticks.add(16f);
         ticks.add(18.5f);
         ticks.add(25.0f);
-        ticks.add(29.9f);
-        ticks.add(34.9f);
-        ticks.add(39.9f);
+        ticks.add(30f);
+        ticks.add(35f);
+        ticks.add(40f);
         ticks.add(50f);
     }
 
